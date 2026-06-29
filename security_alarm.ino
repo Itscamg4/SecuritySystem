@@ -4,11 +4,11 @@
 
 // ── User config — change these before flashing ─────────────────────────────
 
-const char* WIFI_SSID     = "PrettyFly4WiFi";
-const char* WIFI_PASSWORD = "NG4077167700";
+const char* WIFI_SSID     = "";
+const char* WIFI_PASSWORD = "";
 
 // Paste the URL shown in the Python app's "ESP8266 URL" field:
-const char* SERVER_URL    = "http://192.168.1.96:5000/alert";
+const char* SERVER_URL    = "";
 
 const unsigned long HTTP_COOLDOWN_MS = 3000;
 
