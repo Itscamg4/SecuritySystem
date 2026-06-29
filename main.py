@@ -20,8 +20,8 @@ from tkinter import ttk, messagebox
 
 # ── Hardcoded sender credentials ──────────────────────────────────────────────
 
-SENDER_EMAIL    = 'camcodetests@gmail.com'
-SENDER_PASSWORD = 'twbh vmje ilhy rwfo'
+SENDER_EMAIL    = ''
+SENDER_PASSWORD = ''
 
 # ── Flask app ─────────────────────────────────────────────────────────────────
 
