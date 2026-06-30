@@ -1,5 +1,5 @@
 When replicating, customize the wiring guide to fit your own Arduino. In this project I utilized an ESP8226 microcontroller for the WiFi feature.
-To utilize the email notifications, you will need to utilize the WiFi features for Python to run wirelessly. 
+To use the email notifications, you will need to utilize the WiFi features for Python to run wirelessly. 
 Be sure to enter your SENDER_EMAIL, SENDER_PASSWORD, to the Python script and WiFi_SSID, WiFi_PASSWORD, and SERVER_URL which contains your IP Address to the Arduino.
 
 Built a WiFi-based security alarm using an ESP8266 microcontroller and a custom Python app.
